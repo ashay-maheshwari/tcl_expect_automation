@@ -1,0 +1,12 @@
+cli-settings more disable
+show version
+cat /proc/meminfo
+top -b -n 1
+grep  /var/log/messages* 
+grep  /var/log/messages 
+cat /proc/meminfo
+top -b -n 1
+exit
+cli-settings more enable
+logout
+logout
