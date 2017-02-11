@@ -265,7 +265,7 @@ puts $fp "enabletls:0"
 puts $fp "from:your_mail@address"
 puts $fp "user:recivers_mail@address"
 puts $fp "password:somepassword"
-puts $fp "to:ashay.maheshwari@nevisnetworks.com"
+puts $fp "to:ashay.maheshwari@someodomain.com"
 puts $fp "reply-to:your_mail@address"
 puts $fp "/usr/local/software"
 close $fp
